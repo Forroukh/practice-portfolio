@@ -21,6 +21,8 @@ body{
     font-size: 25px;
     font-weight: 500;
     padding: 20px;
+    overflow: scroll;
+    height: 600px;
     
 }
 .section1{
@@ -41,7 +43,8 @@ body{
     align-items: flex-end;
 }
 .image1{
-width: 90%;
+ height: 800px;
+width: 80%;
 padding: 30px;
 border-radius: 80px;
 }
