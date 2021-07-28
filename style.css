@@ -1,0 +1,61 @@
+body{
+    font-family: 'Style Script', cursive;
+    margin: 0;
+   
+}
+
+.hi{
+    font-size: 30px;
+    font-weight: 700;
+    padding: 20px;
+    text-align: center;
+}
+.name{
+    font-size: 40px;
+    color: aqua;
+    font-weight: 900;
+    padding: 20px;
+    text-align: center;
+}
+.summery{
+    font-size: 25px;
+    font-weight: 500;
+    padding: 20px;
+    
+}
+.section1{
+   
+    display: flex;
+}
+.bg-image{
+    background-image: url(bg1.jpg);
+}
+.bg-image2{
+    background-image: url(bg2.jpg);
+}
+.bg-image3{
+    background:rgb(92, 87, 87) ;
+}
+.half-width{
+    width: 50%;
+    align-items: flex-end;
+}
+.image1{
+width: 90%;
+padding: 30px;
+border-radius: 80px;
+}
+.style-div{
+    border-left: 2px solid aqua;
+    padding: 30px;
+    margin: 20px;
+    height: 400px;
+    background-color: beige;
+    overflow: scroll;
+}
+.footer{
+    text-align: center;
+    font-size: 25px;
+    font-weight: 800;
+    color: yellowgreen;
+}
